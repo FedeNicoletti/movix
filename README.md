@@ -14,6 +14,6 @@ To enhance user experience during data loading, a loading skeleton is displayed,
 
 The responsive layout of the website ensures that it adapts perfectly to different screen sizes, thanks to strategically placed media queries. This guarantees an optimal viewing experience across various devices, including desktops, tablets, and mobile phones.
 
-Overall, this project showcases your expertise in utilizing the latest React features, implementing state management, fetching data from APIs, creating custom hooks, designing interactive components like carousels and infinite scrolling, handling errors, and ensuring a responsive and visually appealing user interface.
+Overall, this project showcases my expertise in utilizing the latest React features, implementing state management, fetching data from APIs, creating custom hooks, designing interactive components like carousels and infinite scrolling, handling errors, and ensuring a responsive and visually appealing user interface.
 
 Here is the [demo](https://fdrnmovix.netlify.app/)
