@@ -1,4 +1,6 @@
 # Movix
+![image](https://github.com/FedeNicoletti/movix/assets/63601533/33d93b12-1260-4a91-960e-65480699f200)
+
 
 The project is a website that allows users to watch movies. It is built using the latest version of React (React 18) and leverages its cutting-edge features. The application utilizes React hooks for efficient state management, ensuring a smooth and interactive user experience.
 
